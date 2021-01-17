@@ -31,7 +31,7 @@ Lastly, you have to create a folder called *constants* in the root-folder and in
 An alternative to this is to create a *environment variable*, which might be a better choice.
 
 ## Full Report on my Work
-[Original (Swedish)](https://docs.google.com/document/d/13Ra1vYrSRzTljm7wMcN3h5smfmmkv7ZIt2tWqVAphm8/edit?usp=sharing)
+[Original (Swedish)](https://docs.google.com/document/d/13Ra1vYrSRzTljm7wMcN3h5smfmmkv7ZIt2tWqVAphm8/edit?usp=sharing)\
 Translated (English) (Comming soon)
 
 ## Contact
